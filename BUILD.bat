@@ -1,0 +1,1 @@
+C:\Python34\Scripts\pyinstaller.exe -F puzzlehd.py
